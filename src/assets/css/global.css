@@ -36,5 +36,8 @@ html,body,#app {
 .el-cascader-panel .el-radio__input {
     visibility: hidden;
 }
+td.el-table__expanded-cell {
+   padding: 20px 50px !important;
+}
 
     
