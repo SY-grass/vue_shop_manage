@@ -39,5 +39,13 @@ html,body,#app {
 td.el-table__expanded-cell {
    padding: 20px 50px !important;
 }
-
+.el-steps {
+    margin: 15px 0;
+}
+.el-steps_title {
+    font-size: 13px;
+}
+.ql-editor {
+    min-height: 300px;
+}
     
